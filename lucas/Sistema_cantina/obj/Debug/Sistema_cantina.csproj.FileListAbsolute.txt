@@ -1,0 +1,9 @@
+C:\Users\lucas\Documents\PC\FACULDADE\CURSOS ONLINE\C#_basico\Sistema_cantina\obj\Debug\Sistema_cantina.csprojAssemblyReference.cache
+C:\Users\lucas\Documents\PC\FACULDADE\CURSOS ONLINE\C#_basico\Sistema_cantina\obj\Debug\Sistema_cantina.Form1.resources
+C:\Users\lucas\Documents\PC\FACULDADE\CURSOS ONLINE\C#_basico\Sistema_cantina\obj\Debug\Sistema_cantina.Properties.Resources.resources
+C:\Users\lucas\Documents\PC\FACULDADE\CURSOS ONLINE\C#_basico\Sistema_cantina\obj\Debug\Sistema_cantina.csproj.GenerateResource.cache
+C:\Users\lucas\Documents\PC\FACULDADE\CURSOS ONLINE\C#_basico\Sistema_cantina\bin\Debug\Sistema_cantina.exe.config
+C:\Users\lucas\Documents\PC\FACULDADE\CURSOS ONLINE\C#_basico\Sistema_cantina\bin\Debug\Sistema_cantina.exe
+C:\Users\lucas\Documents\PC\FACULDADE\CURSOS ONLINE\C#_basico\Sistema_cantina\bin\Debug\Sistema_cantina.pdb
+C:\Users\lucas\Documents\PC\FACULDADE\CURSOS ONLINE\C#_basico\Sistema_cantina\obj\Debug\Sistema_cantina.exe
+C:\Users\lucas\Documents\PC\FACULDADE\CURSOS ONLINE\C#_basico\Sistema_cantina\obj\Debug\Sistema_cantina.pdb
